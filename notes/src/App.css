@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.nav{
+  background-color: yellow;
+  height: 20%;
+}
+
+.logo{
+  text-align: left;
+  margin-left: 20px;
+}
